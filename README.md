@@ -2,10 +2,10 @@
 
 ## Deliverables
 
-1. `01_rds_setup.sql` — Step 1 database setup for AWS RDS MySQL 8.0.
-2. `02_capstone_ddl.sql` — Step 2: all seven table DDL statements in one SQL file.
-3. `03_erd_screenshot.png` — Step 3 ERD screenshot for the GitHub repository.
-4. `04_load_capstone_data_rds.py` — Step 4 Python loader for all seven CSV files.
+1. ` 01_capstone_db_ddl.sql` — Step 1 database setup for AWS RDS MySQL 8.0 and all seven table DDL statements in one SQL file.
+2. `02_erd.png` — Step 2: ERD screenshot for the GitHub repository.
+3. `03_load_capstone_data_rds.py` — Step 3 Python loader for all seven CSV files.
+4. `04_dashboard.png` — PowerBI Dashboard screenshot for the GitHub repository.
 
 ## Database
 
@@ -58,10 +58,10 @@ The password is read from an environment variable and is not stored in the repos
 
 ```text
 joyeux-shoppers-capstone/
-├── 01_rds_setup.sql
-├── 02_capstone_ddl.sql
-├── 03_erd_screenshot.png
-├── 04_load_capstone_data_rds.py
+├── 01_capstone_db_ddl.sql
+├── 02_erd.png
+├── 03_load_capstone_data_rds.py
+├── 04_dashboard.png
 └── README.md
 ```
 "# Joyeux-Shoppers-Project" 
