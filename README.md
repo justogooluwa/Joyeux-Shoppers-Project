@@ -74,4 +74,4 @@ Welcome to the Joyeux Shoppers Data Analysis Project! This project aims to analy
 ## Conclusion
 
 This README provides an overview of the Joyeux Shoppers Data Analysis Project, including database setup, data loading, analysis queries, and visualizations on a dashboard. The project aims to provide actionable insights for executive management to make informed decisions based on sales performance, customer demographics, and product analysis.
-"# Weather-Forecast" 
+
