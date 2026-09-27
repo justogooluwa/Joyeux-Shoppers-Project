@@ -62,6 +62,8 @@ Welcome to the Joyeux Shoppers Data Analysis Project! This project aims to analy
 
 ### Dashboard Visualizations
 
+- ![Dashboard](04_dashboard.png)
+
 1. Line graph: Revenue generated over the last 9 months.
 2. Line graph: Comparison of total orders and customers over the last 9 months.
 3. Bar graph: Total sales by country (top 10 countries).
